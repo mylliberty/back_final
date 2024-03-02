@@ -20,7 +20,7 @@ app.use(session({
 }));
 app.set('view engine', 'ejs');
 
-const dbUrl = "mongodb+srv://dana:dana@cluster0.dfjnrfx.mongodb.net/MovieDB"; // Replace 'yourdbname' with your actual database name
+const dbUrl = "mongodb+srv://daniyaradil2004:3872fsFF@cluster0.rqufec3.mongodb.net/assik4"; // Replace 'yourdbname' with your actual database name
 const connectionParams = {
     useNewUrlParser: true,
     useUnifiedTopology: true,
